@@ -9,7 +9,8 @@ To do list:
 📚 Clean room
 
 Playlist
-https://www.youtube.com/watch?v=FKdunvjSevw&ab_channel=Colde-Topic
+https://img.https://www.youtube.com/watch?v=FKdunvjSevw&ab_channel=Colde-Topic/maxresdefault.jpg
+
 
 
 
