@@ -3,21 +3,41 @@
 My name is Chloe, and I currently  study in Ateneo de Naga University Junior Highschool. I am 15 years old and I love to cook, read, and listen to music
 
 To do list:
+
 📚 Finish Science Module
+
 📚 Finish English Module
+
 📚 Wash dishes
+
 📚 Clean room
 
 Playlist
-- https://user-images.githubusercontent.com/99799259/156506625-7281d50e-4076-4bc5-b58b-1e8465fd2eb5.mp4
-- https://user-images.githubusercontent.com/99799259/156506861-dbab2aee-1536-46aa-bb6c-2d97096fc11f.mp4
-- https://user-images.githubusercontent.com/99799259/156507039-90fd6e30-4b02-4d95-8d5d-27127a3aefdd.mp4
+
+https://user-images.githubusercontent.com/99799259/156508368-962a85e0-3a60-4bea-8e28-f2bca962fab6.mp4
+
+
+
+https://user-images.githubusercontent.com/99799259/156508427-bddcc6ea-5981-4f4b-930f-1332c582b9fb.mp4
+
+
+
+https://user-images.githubusercontent.com/99799259/156508451-a8557e7a-ac8d-4c92-92df-53b8911f0564.mp4
+
+
+
+https://user-images.githubusercontent.com/99799259/156508546-624154a0-d524-403e-83c7-f17149fa76d1.mp4
+
 
 
 Goals
+
 - Become a Food Scientist/Doctor
+
 - Finish studying
+
 - Buy a house
+
 - Live a healthy life
 
 
