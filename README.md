@@ -12,7 +12,7 @@ To do list:
 
 📚 Clean room
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mNOPS61i8Fo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=j2aQ_NqeTNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Goals
