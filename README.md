@@ -14,17 +14,6 @@ To do list:
 
 Playlist
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=to_5UOAINLY&ab_channel=Crush-Topic" 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uqmv4xBLt5k&ab_channel=Gaho-Topic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=piWSiSF66tk&ab_channel=VERIVERY-Topic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=drrOmpcbd8U&ab_channel=StoneMusicEntertainmentc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mkl3S_-mbfk&ab_channel=Jaeguchi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Nr8xZ5fhZzQ&ab_channel=Jendukie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
