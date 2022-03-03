@@ -1,5 +1,5 @@
 ### Hello 👋🏻
 
-![alt text](https://github.com/diasednap/laurel/blob/main/photo-1548192746-dd526f154ed9.jpeg)
+My name is Chloe, and i study in Ateneo de Naga University Junior Highschool. I love to read, cook, and listen to music.
 
-❀ flowers represent fragility and the swift passage from life into death.
+![CarelessWeightyBangeltiger-max-1mb](https://user-images.githubusercontent.com/99799259/156503344-f9126b06-fcc5-4a10-9a44-1e6d5b4c2874.gif)
